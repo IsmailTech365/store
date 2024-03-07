@@ -1,4 +1,4 @@
-# store
+# Store App
 
 I hope you will read me and learn with me a new way to download any project and run it in any version without any suffering
 
